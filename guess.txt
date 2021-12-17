@@ -1,0 +1,7 @@
+apple
+string
+windows
+linux
+write
+technology
+random
